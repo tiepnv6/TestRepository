@@ -1,0 +1,264 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "03769E37-2234-4060-960B17DCE4DE3DFB"
+			RelativePath = "ChamSocKH\ChamSocKH.Tab2.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ChamSocKH\ChamSocKH.Tab2.gui"/>
+		<FileInfo
+			ID = "04516B39-0B92-4513-90682BE95C7129DD"
+			RelativePath = "Images\1.LOGO.jpeg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\1.LOGO.jpeg"/>
+		<FileInfo
+			ID = "0539306F-589B-4E0B-80D700E46D2E59D4"
+			RelativePath = "Privacy Policy.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Privacy Policy.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "057B2C35-FE2C-4975-B1B21E13BE8E832F"
+			RelativePath = "Masters\Layout.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "TiepXucKH\Layout.gui"/>
+		<FileInfo
+			ID = "0A243832-360F-4EC2-B241B875C18D979C"
+			RelativePath = "Images\3.Login.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\3.Login.jpg"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "0C669392-41F7-4220-94FD5BE0F2B94842"
+			RelativePath = "Product A Detail.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Product A Detail.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "0DDD44D2-01A8-4152-B20503FAADF632C8"
+			RelativePath = "ChamSocKH\ChamSocKH.Tab.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ChamSocKH\ChamSocKH.Tab.gui"/>
+		<FileInfo
+			ID = "15603008-3DC1-4654-8BEDAE27D485382C"
+			RelativePath = "Images\3.Login.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\3.Login.png"/>
+		<FileInfo
+			ID = "1C217A88-1138-47E1-B9E8EA73B119C8FA"
+			RelativePath = "Masters\Header.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Header.gui"/>
+		<FileInfo
+			ID = "1DE7D791-8B90-4085-9F1618C8EB29E176"
+			RelativePath = "ChamSocKH\abc.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ChamSocKH\abc.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "21F24C28-7579-460F-9B1BB0620D91C878"
+			RelativePath = "DanhMuc\abc.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DanhMuc\abc.gui"/>
+		<FileInfo
+			ID = "2489DDE1-5BB3-4994-84308FF6875F3835"
+			RelativePath = "Products.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Products.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "274D5278-BC7B-4BB4-AF2ABDB586786C4E"
+			RelativePath = "TiepXucKH\Home.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "TiepXucKH\adb.gui"/>
+		<FileInfo
+			ID = "27BD2722-0069-486D-8032E64F35325DAA"
+			RelativePath = "Masters\Footer.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Footer.gui"/>
+		<FileInfo
+			ID = "308CC7C4-2BFB-4F8B-8D5A8E4BCF11642F"
+			RelativePath = "About Us.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "About Us.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "34025B93-B785-4ADD-AF0D4F0DF7CBE29E"
+			RelativePath = "ChamSocKH\ChamSocKH.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ChamSocKH\ChamSocKH.gui"/>
+		<FileInfo
+			ID = "38F938AF-1D86-43D3-98BDA5B9E806B97D"
+			RelativePath = "DanhMuc\DanhMuc.DiaBan.Edit.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DanhMuc\DanhMuc.DiaBan.Edit.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "3D9D8C80-F5B0-4EDD-AA0CA10AFEACE678"
+			RelativePath = "Masters\Login.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "TiepXucKH\Login.gui"/>
+		<FileInfo
+			ID = "3E0779EE-522D-42CE-BF4C3C1819E71C3B"
+			RelativePath = "TiepXucKH\QL_KhachHang\ThongTinTiepXuc_KH.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "TiepXucKH\QL_KhachHang\ThongTinTiepXuc_KH.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "3FB93473-B8C8-4D28-B29A069E54A4A23E"
+			RelativePath = "TiepXucKH\QL_KhachHang\QL_TiepXucKH.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "TiepXucKH\QL_KhachHang\QL_TiepXucKH.gui"/>
+		<FileInfo
+			ID = "47D256F9-FD06-4BA6-9B2D92B8ECF79D0F"
+			RelativePath = "TiepXucKH\test.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "TiepXucKH\test.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "49C227E1-D2DE-4690-A91B6C9AE2299A5C"
+			RelativePath = "Masters\Menu\menu.DanhMuc_bk.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Menu\menu.DanhMuc_bk.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "53C39730-2B9A-4702-B3032DB1B619014E"
+			RelativePath = "DanhMuc\DanhMuc.NGKD.Edit.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DanhMuc\DanhMuc.NGKD.Edit.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "55B470B3-D55C-412A-97DC16F88BB8A525"
+			RelativePath = "ChamSocKH\ChamSocKH.Tab1.View.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ChamSocKH\ChamSocKH.Tab1.View.gui"/>
+		<FileInfo
+			ID = "612B9208-659C-400A-BD657C5A9BF37B84"
+			RelativePath = "Downloads.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Downloads.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "62D23242-A684-4C92-9900426AAD4DE209"
+			RelativePath = "TiepXucKH\Home.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "TiepXucKH\Home.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "696F8C11-6888-4375-849969726272DCEB"
+			RelativePath = "Masters\Menu\menu.ChamSocKH.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Menu\menu.ChamSocKH.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "69CA36EC-2EC5-41D5-A16AB896A198636C"
+			RelativePath = "Masters\Menu\menu.DanhMuc.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "menu.DanhMuc.gui"/>
+		<FileInfo
+			ID = "75C92440-F588-4C63-9D489C4CC5F42F6F"
+			RelativePath = "Masters\Layout2.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Layout2.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "775AF2A4-8179-4FB6-B00A65AB72C7F429"
+			RelativePath = "Home.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Home.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "850766C9-CD1E-498D-A870D8D77D1DFF63"
+			RelativePath = "Masters\Menu\menu.TiepXucKH.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Menu\menu.TiepXucKH.gui"/>
+		<FileInfo
+			ID = "8B0805F3-3BD0-4FA5-8A106F4F1040DB28"
+			RelativePath = "CMS.zip"
+			OriginalRoot = "$Project"
+			OriginalPath = "CMS.zip"/>
+		<FileInfo
+			ID = "8C403AA9-9947-4046-965171C32957D4FD"
+			RelativePath = "TiepXucKH\QL_PhanLoaiThiTruong.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "QL_PhanLoaiThiTruong.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "8E511DE0-7089-42B9-96E9B85739355B05"
+			RelativePath = "TiepXucKH\QL_PLThiTruong.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "QL_PLThiTruong.gui"/>
+		<FileInfo
+			ID = "906CF841-0BC0-47A6-85BF1D7D094BBA40"
+			RelativePath = "TiepXucKH\aaaaa.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "TiepXucKH\aaaaa.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "9D8F3872-68A0-4329-A4A50CD662BA387B"
+			RelativePath = "DanhMuc\DanhMuc.DichVu.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DanhMuc\DanhMuc.DichVu.gui"/>
+		<FileInfo
+			ID = "A4B9828C-5952-4CFA-8079E0104C40C3D6"
+			RelativePath = "DanhMuc\DanhMuc.DiaBan.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DanhMuc\DanhMuc.DiaBan.gui"/>
+		<FileInfo
+			ID = "AB122389-9A93-49ED-AEFA691C2F556C34"
+			RelativePath = "Masters\Login.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Login.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "ABF1752C-9453-4F6C-B793C2E794606BC3"
+			RelativePath = "ChamSocKH\ChamSocKH.Tab1.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ChamSocKH\ChamSocKH.Tab1.gui"/>
+		<FileInfo
+			ID = "B88C31E8-3666-443A-B0C40FAC70367726"
+			RelativePath = "DanhMuc\DanhMuc.DichVu.Edit.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DanhMuc\DanhMuc.DichVu.Edit.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "C4D0689C-51AC-439E-884C626A477DBDFE"
+			RelativePath = "ChamSocKH\ChamSocKH.Tab1.New.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ChamSocKH\ChamSocKH.Tab1.New.gui"/>
+		<FileInfo
+			ID = "D00CAF1C-C726-4753-AAB5E5BC6568AD3A"
+			RelativePath = "TiepXucKH\QL_KhachHang\QL_KhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "TiepXucKH\QL_KhachHang.gui"/>
+		<FileInfo
+			ID = "D9F09E66-B90E-4E8F-988E7112B65F8424"
+			RelativePath = "DanhMuc\DanhMuc.NSDKH.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DanhMuc\DanhMuc.NSDKH.gui"/>
+		<FileInfo
+			ID = "E79F0094-B9A8-4BED-ADFF89FE60530932"
+			RelativePath = "DanhMuc\DanhMuc.NGKD.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DanhMuc\DanhMuc.NGKD.gui"/>
+		<FileInfo
+			ID = "EF79FD75-AC6E-4AB9-83B37CDCACF50DD1"
+			RelativePath = "TiepXucKH\QL_KhachHang\ThongTinChiTiet_KH.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "TiepXucKH\QL_KhachHang\ThongTinChiTiet_KH.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "F3EA01F9-32B5-4E90-A840F92C40295A4E"
+			RelativePath = "Images\2.PhanTrang.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\2.PhanTrang.png"/>
+		<FileInfo
+			ID = "F40EB666-D653-4CAC-B4607CF6947D3A63"
+			RelativePath = "DanhMuc\DanhMuc.NSDKH.Edit.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DanhMuc\DanhMuc.NSDKH.Edit.gui"
+			IsDeleted = "1"/>
+	</Files>
+</Catalogue>

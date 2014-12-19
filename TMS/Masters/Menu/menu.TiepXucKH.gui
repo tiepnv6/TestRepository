@@ -1,0 +1,97 @@
+<Screen
+	CID = "1"
+	AppID = "2"
+	AppVer = "4.1.109.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "800"
+	Height = "600"
+	NextCID = "6"
+	RepresentativeRefID = "105144190"
+	UseDefRepresentative = "0">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "105144190"
+			Type = "MenuPopup"
+			X = "119"
+			Y = "185"
+			Width = "182"
+			Height = "126"
+			Flags = "3"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "11"
+			LeftMargin = "20"
+			RightMargin = "16"
+			Mirror = "0">
+			<MenuPopupItem
+				ItemID = "1"
+				Type = "CommandOption"
+				Item = "QL Phân loại thị trường"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "2"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "3"
+				Type = "CommandOption"
+				Item = "Quản lý KH"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "4"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "9"
+				Type = "CommandOption"
+				Item = "Đánh giá KH"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "8"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "6"
+				Type = "CommandOption"
+				Item = "Khai báo dịch vụ KH"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "10"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+		</Element>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

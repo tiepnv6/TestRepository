@@ -1,0 +1,199 @@
+<Screen
+	CID = "1"
+	AppID = "2"
+	AppVer = "4.1.109.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "800"
+	Height = "600"
+	NextCID = "6"
+	RepresentativeRefID = "105144190"
+	UseDefRepresentative = "0">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "105144190"
+			Type = "MenuPopup"
+			X = "119"
+			Y = "185"
+			Width = "188"
+			Height = "118"
+			Flags = "3"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "8"
+			LeftMargin = "20"
+			RightMargin = "16"
+			Mirror = "0">
+			<MenuPopupItem
+				ItemID = "1"
+				Type = "CommandOption"
+				Item = "DM Loại NGKD"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "2"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "3"
+				Type = "CommandOption"
+				Item = "DM Dịch vụ"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "4"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "5"
+				Type = "CommandOption"
+				Item = "DM Địa bàn"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "6"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "7"
+				Type = "CommandOption"
+				Item = "DM Người dùng của KH"
+				Hotkey = ""
+				IsDisabled = "0"/>
+		</Element>
+		<Element
+			CID = "1864440217"
+			Type = "ComponentThumbnail"
+			X = "396"
+			Y = "39"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "88AB3D76-D79F-4E3B-A6819C139607FD1B"
+			RootPath = "$Container"
+			Filename = "..\..\DanhMuc\DanhMuc.NGKD.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1864463322"
+			Type = "ComponentThumbnail"
+			X = "396"
+			Y = "198"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			RootPath = "$Container"
+			Filename = "..\..\DanhMuc\DanhMuc.DichVu.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1864438060"
+			Type = "ComponentThumbnail"
+			X = "396"
+			Y = "357"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "683D4674-F302-4427-8DCFB1CBCB26A85F"
+			RootPath = "$Container"
+			Filename = "..\..\DanhMuc\DanhMuc.DiaBan.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1864458402"
+			Type = "ComponentThumbnail"
+			X = "396"
+			Y = "516"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "BEF07BBF-EACB-459A-98E29202F29C939B"
+			RootPath = "$Container"
+			Filename = "..\..\DanhMuc\DanhMuc.NSDKH.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+	</Elements>
+	<Connections
+		CID = "2">
+		<Connection
+			CID = "1864448241"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "1"
+			SourceRefID = "105144190"
+			TargetRefID = "1864440217"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1864459555"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "3"
+			SourceRefID = "105144190"
+			TargetRefID = "1864463322"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1864459680"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "5"
+			SourceRefID = "105144190"
+			TargetRefID = "1864438060"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1864443802"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "7"
+			SourceRefID = "105144190"
+			TargetRefID = "1864458402"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

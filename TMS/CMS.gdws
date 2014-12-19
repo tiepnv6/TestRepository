@@ -1,0 +1,99 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Documents">
+	<OpenFiles
+		CID = "1"
+		LastActive = "18">
+		<File
+			FileID = "69CA36EC-2EC5-41D5-A16AB896A198636C"
+			RootPath = "$Container"
+			RelativePathname = "Masters\Menu\menu.DanhMuc.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "696F8C11-6888-4375-849969726272DCEB"
+			RootPath = "$Container"
+			RelativePathname = "Masters\Menu\menu.ChamSocKH.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "A4B9828C-5952-4CFA-8079E0104C40C3D6"
+			RootPath = "$Container"
+			RelativePathname = "DanhMuc\DanhMuc.DiaBan.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "9D8F3872-68A0-4329-A4A50CD662BA387B"
+			RootPath = "$Container"
+			RelativePathname = "DanhMuc\DanhMuc.DichVu.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "E79F0094-B9A8-4BED-ADFF89FE60530932"
+			RootPath = "$Container"
+			RelativePathname = "DanhMuc\DanhMuc.NGKD.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "D9F09E66-B90E-4E8F-988E7112B65F8424"
+			RootPath = "$Container"
+			RelativePathname = "DanhMuc\DanhMuc.NSDKH.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "1DE7D791-8B90-4085-9F1618C8EB29E176"
+			RootPath = "$Container"
+			RelativePathname = "ChamSocKH\abc.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "057B2C35-FE2C-4975-B1B21E13BE8E832F"
+			RootPath = "$Container"
+			RelativePathname = "Masters\Layout.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "27BD2722-0069-486D-8032E64F35325DAA"
+			RootPath = "$Container"
+			RelativePathname = "Masters\Footer.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "775AF2A4-8179-4FB6-B00A65AB72C7F429"
+			RootPath = "$Container"
+			RelativePathname = "Home.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "1C217A88-1138-47E1-B9E8EA73B119C8FA"
+			RootPath = "$Container"
+			RelativePathname = "Masters\Header.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "C4D0689C-51AC-439E-884C626A477DBDFE"
+			RootPath = "$Container"
+			RelativePathname = "ChamSocKH\ChamSocKH.Tab1.New.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "0DDD44D2-01A8-4152-B20503FAADF632C8"
+			RootPath = "$Container"
+			RelativePathname = "ChamSocKH\ChamSocKH.Tab.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "55B470B3-D55C-412A-97DC16F88BB8A525"
+			RootPath = "$Container"
+			RelativePathname = "ChamSocKH\ChamSocKH.Tab1.View.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "8E511DE0-7089-42B9-96E9B85739355B05"
+			RootPath = "$Container"
+			RelativePathname = "TiepXucKH\QL_PLThiTruong.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "D00CAF1C-C726-4753-AAB5E5BC6568AD3A"
+			RootPath = "$Container"
+			RelativePathname = "TiepXucKH\QL_KhachHang\QL_KhachHang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "34025B93-B785-4ADD-AF0D4F0DF7CBE29E"
+			RootPath = "$Container"
+			RelativePathname = "ChamSocKH\ChamSocKH.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "ABF1752C-9453-4F6C-B793C2E794606BC3"
+			RootPath = "$Container"
+			RelativePathname = "ChamSocKH\ChamSocKH.Tab1.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

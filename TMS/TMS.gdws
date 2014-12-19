@@ -1,0 +1,41 @@
+<Workspace
+	CID = "1"
+	IconCategory = "Documents"
+	NextCID = "2">
+	<OpenFiles
+		CID = "1"
+		LastActive = "8">
+		<File
+			RootPath = "$Container"
+			RelativePathname = "1.YCVanTai\YCVanTai.KHVT.Create.Tab.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "1.YCVanTai\YCVanTai.KHVT.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "1.YCVanTai\YCVanTai.KHVT.Create.Tab2.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "1.YCVanTai\YCVanTai.VTP.Create.Tab1.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "1.YCVanTai\YCVanTai.VTP.Create.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "1.YCVanTai\YCVanTai.VTP.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "1.YCVanTai\YCVanTai.VTP.ViewDLT.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "1.YCVanTai\YCVanTai.KHVT.Create.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

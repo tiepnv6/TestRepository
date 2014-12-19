@@ -1,0 +1,168 @@
+<Screen
+	CID = "960721750"
+	AppID = "2"
+	AppVer = "4.1.109.0"
+	DocID = ""
+	HasCanvas = "1"
+	Width = "586"
+	Height = "21"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1378431337"
+			Type = "RectangleShape"
+			X = "0"
+			Y = "0"
+			Width = "586"
+			Height = "21"
+			Flags = "0"
+			TextColour = "0,0,0,0,0"
+			FillColour = "255,255,255,0,0"
+			BorderColour = "0,0,0,0,0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = ""
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "None"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "1127382335"
+			Type = "WebTab"
+			X = "0"
+			Y = "0"
+			Width = "95"
+			Height = "21"
+			Flags = "0"
+			FillColour = "187,221,255,0,0"
+			LineColour = "113,111,100,0,22"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			Text = "Thông tin chi tiết"
+			CornerSize = "6"
+			LineWidth = "1"
+			IsClosed = "0"
+			Shape = "Box"
+			CornerStyle = "Round"
+			AttachSide = "Bottom"
+			Fill = "Solid"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1127360835"
+			Type = "WebTab"
+			X = "95"
+			Y = "0"
+			Width = "95"
+			Height = "21"
+			Flags = "0"
+			FillColour = "187,221,255,0,0"
+			LineColour = "113,111,100,0,22"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			Text = "Tiến độ thực hiện"
+			CornerSize = "6"
+			LineWidth = "1"
+			IsClosed = "0"
+			Shape = "Box"
+			CornerStyle = "Round"
+			AttachSide = "Bottom"
+			Fill = "Solid"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "338655841"
+			Type = "ComponentThumbnail"
+			X = "29"
+			Y = "98"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "55B470B3-D55C-412A-97DC16F88BB8A525"
+			RootPath = "$Container"
+			Filename = "ChamSocKH.Tab1.View.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "338634098"
+			Type = "ComponentThumbnail"
+			X = "213"
+			Y = "102"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "03769E37-2234-4060-960B17DCE4DE3DFB"
+			RootPath = "$Container"
+			Filename = "ChamSocKH.Tab2.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+	</Elements>
+	<Connections
+		CID = "2">
+		<Connection
+			CID = "466945074"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = ""
+			SourceRefID = "1127382335"
+			TargetRefID = "338655841"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "466949529"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = ""
+			SourceRefID = "1127360835"
+			TargetRefID = "338634098"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "960720705"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>
